@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AsisiphoMB22
 - 👀 I’m interested in application development
-- 🌱 I’m currently learning django and wordpress
+- 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on any projects coded in java, c# and python
 - 📫 How to reach me: my email is asisiphombobo40@gmail.com
 - 😄 Pronouns: She/Her
